@@ -9,7 +9,7 @@ License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
 # Source0-md5:	f9fe35cd2d47e09636892ddf5a2c7abf
-URL:		http://pear.horde.org/package/Horde_SessionHandler/
+URL:		https://github.com/horde/horde/tree/master/framework/SessionHandler/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
 BuildRequires:	php-pear-PEAR >= 1:1.7.0
