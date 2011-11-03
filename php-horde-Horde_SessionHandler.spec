@@ -3,12 +3,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Session Handler API
 Name:		php-horde-Horde_SessionHandler
-Version:	1.0.0
+Version:	1.0.2
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	f9fe35cd2d47e09636892ddf5a2c7abf
+# Source0-md5:	1b9684b56fd2d59b07ce835b069377cf
 URL:		https://github.com/horde/horde/tree/master/framework/SessionHandler/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
