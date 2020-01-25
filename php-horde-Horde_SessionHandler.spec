@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	Horde_SessionHandler
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Session Handler API
 Name:		php-horde-Horde_SessionHandler
 Version:	1.0.5
